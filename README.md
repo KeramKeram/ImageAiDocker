@@ -9,6 +9,8 @@ You can find here:
 * Opencv 4.2.0
 * ImageAi 2.1.5
 
+And more.
+
 # Installation
 
 1. Clone repository.
